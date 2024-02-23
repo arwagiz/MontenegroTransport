@@ -22,6 +22,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [International cooperation projects and strategies](#International-cooperation) 
 - [Data](#data) 
 
+
   
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
@@ -34,12 +35,21 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - General
 
 
+
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
 - Railways:
+
+  
 - Roads:
+
+  
 - Inland waterways, ports:
+
+  
 - Aviation:
+
+
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
@@ -59,20 +69,24 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
-- 
+ 
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
 - [Cycling Development Strategy (Kolašin, Rožaje, Žabljak)](https://biciklo.me/biciklo-me-izradilo-nacrte-strategija-razvoja-biciklizma-u-kolasinu-rozajama-i-zabljaku/)
-- [Superdistricts: Human-scale Settlements in Podgorica](https://biciklo.me/necu-city-hocu-super-kvart-kako-do-naselja-po-mjeri-covjeka/](https://biciklo.me/wp-content/uploads/2024/01/Policy-Brief-Super-kvartovi.pdf)
+- [Superdistricts: Human-scale Settlements in Podgorica](https://biciklo.me/wp-content/uploads/2024/01/Policy-Brief-Super-kvartovi.pdf)
+
 
 
 ### Local Sustainable Energy and Climate Action Plans <a name="local-secaps"></a> 
 - [SECAP Municipality of Tuzi](https://tuzi.org.me/cg/secap-tuzi-alb-2021-2/)
 
+
+
 ### Studies and research papers <a name="studies-research"></a> 
 - [Research Results: Conditions for Cycling (2021)](https://biciklo.me/project/rezultati-redovne-godisnje-ankete-o-uslovima-za-voznju-biciklom-u-podgorici-izdanje-za-2021-godinu/)
 - [From Home to School: High School Students in Podgorica Traffic (2020)](https://biciklo.me/project/od-kuce-do-skole-srednjoskolci-u-podgorickom-saobracaju/)
+
 
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
