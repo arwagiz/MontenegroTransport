@@ -55,13 +55,13 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
-    - [Law on Protection from the Negative Impacts of Climate Change (2019)](https://me.propisi.net/zakon-o-zastiti-od-negativnih-uticaja-klimatskih-promjena/)  
+
       
 - Adaptation
    
 
 - Energy policy 
-    
+    - [Law on Protection from the Negative Impacts of Climate Change (2019)](https://me.propisi.net/zakon-o-zastiti-od-negativnih-uticaja-klimatskih-promjena/)      
 
 
 ### EU accession <a name="eu-accession"></a> 
