@@ -27,7 +27,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
 - Transport:
-    - [Strategy for Improving road Traffic Safety 2023 – 2030 (Draft)](https://www.gov.me/dokumenta/53215d5d-e054-48bd-844f-cad8521512a7)
+    - [Strategy for Improving Road Traffic Safety 2023 – 2030 (Draft)](https://www.gov.me/dokumenta/53215d5d-e054-48bd-844f-cad8521512a7)
     - [Report on the State of Road Traffic Safety in Montenegro for the Year 2022 (MUP)](https://www.gov.me/dokumenta/1a28cc46-2175-48e2-aecf-4da571096249)
     - [Innovative Rractices for Encouraging Bicycle Traffic (2023)](https://biciklo.me/wp-content/uploads/2023/11/Sazeti-predlog-prakticne-politike-Biciklo_me_NSBI.pdf)
   
