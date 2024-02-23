@@ -74,6 +74,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
+- [Sustainable Urban Mobility Plan (SUMP) for Podgorica (2021)](https://skupstina.podgorica.me/wp-content/uploads/2020/02/19.-Prijedlog-plana-odr%C5%BEive-urbane-mobilnosti-Glavnog-grada-Podgorica.pdf)
 - [BokaCet 2020: Polycentric Urban Mobility Plan for Boka Bay and the Old Royal Capital of Cetinje](https://opstinativat.fra1.digitaloceanspaces.com/documents/Zastita%20ziv.sred.%20i%20energ.%20efikasnost/UNDP%20-%20PolySUMP%202017%20ENG.pdf)
 - [Cycling Development Strategy (Kolašin, Rožaje, Žabljak)](https://biciklo.me/biciklo-me-izradilo-nacrte-strategija-razvoja-biciklizma-u-kolasinu-rozajama-i-zabljaku/)
 - [Superdistricts: Human-scale Settlements in Podgorica](https://biciklo.me/wp-content/uploads/2024/01/Policy-Brief-Super-kvartovi.pdf)
