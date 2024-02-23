@@ -64,7 +64,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
 - [Cycling Development Strategy (Kolašin, Rožaje, Žabljak)](https://biciklo.me/biciklo-me-izradilo-nacrte-strategija-razvoja-biciklizma-u-kolasinu-rozajama-i-zabljaku/)
-- [Superdistricts: Human-scale Settlements in Podgorica]([https://biciklo.me/necu-city-hocu-super-kvart-kako-do-naselja-po-mjeri-covjeka/](https://biciklo.me/wp-content/uploads/2024/01/Policy-Brief-Super-kvartovi.pdf))
+- [Superdistricts: Human-scale Settlements in Podgorica](https://biciklo.me/necu-city-hocu-super-kvart-kako-do-naselja-po-mjeri-covjeka/](https://biciklo.me/wp-content/uploads/2024/01/Policy-Brief-Super-kvartovi.pdf)
 
 
 ### Local Sustainable Energy and Climate Action Plans <a name="local-secaps"></a> 
