@@ -16,7 +16,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Climate and energy policies](#climate-energy-policies) 
 - [EU accession](#eu-accession)
 - [Trade Facilitation](#trade-facilitation)  
-- [Local Transport Plans](#local-transport-plans) 
+- [Local Transport Plans](#local-transport-plans)
+- [Local Sustainable Energy and Climate Action Plans](#local-secaps)
 - [Studies and research papers](#studies-research) 
 - [International cooperation projects and strategies](#International-cooperation) 
 - [Data](#data) 
@@ -26,6 +27,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Transport:
     - [Strategy for Improving road Traffic Safety 2023 – 2030 (Draft)](https://www.gov.me/dokumenta/53215d5d-e054-48bd-844f-cad8521512a7)
+    - [Report on the State of Road Traffic Safety in Montenegro for the Year 2022 (MUP)](https://www.gov.me/dokumenta/1a28cc46-2175-48e2-aecf-4da571096249)
+    - [Innovative Rractices for Encouraging Bicycle Traffic (2023)](https://biciklo.me/wp-content/uploads/2023/11/Sazeti-predlog-prakticne-politike-Biciklo_me_NSBI.pdf)
   
 
 - General
@@ -60,10 +63,16 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
+- [Cycling Development Strategy (Kolašin, Rožaje, Žabljak)](https://biciklo.me/biciklo-me-izradilo-nacrte-strategija-razvoja-biciklizma-u-kolasinu-rozajama-i-zabljaku/)
+- [Superdistricts: Human-scale Settlements in Podgorica]([https://biciklo.me/necu-city-hocu-super-kvart-kako-do-naselja-po-mjeri-covjeka/](https://biciklo.me/wp-content/uploads/2024/01/Policy-Brief-Super-kvartovi.pdf))
 
+
+### Local Sustainable Energy and Climate Action Plans <a name="local-secaps"></a> 
+- [SECAP Municipality of Tuzi](https://tuzi.org.me/cg/secap-tuzi-alb-2021-2/)
 
 ### Studies and research papers <a name="studies-research"></a> 
-
+- [Research Results: Conditions for Cycling (2021)](https://biciklo.me/project/rezultati-redovne-godisnje-ankete-o-uslovima-za-voznju-biciklom-u-podgorici-izdanje-za-2021-godinu/)
+- [From Home to School: High School Students in Podgorica Traffic (2020)](https://biciklo.me/project/od-kuce-do-skole-srednjoskolci-u-podgorickom-saobracaju/)
 
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
