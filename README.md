@@ -104,8 +104,9 @@ Disclaimer: Findings, interpretations and conclusions expressed in this chart ar
 
 
 Contributors:
-
+- Ana Zhibaj: ana.zhibaj@giz.de
+  
 
 Compiled by / Contact:
 - Armin Wagner: armin.wagner@giz.de
-- (as of January 2024)
+- (as of February 2024)
