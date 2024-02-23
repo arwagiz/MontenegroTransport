@@ -27,13 +27,14 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
 - Transport:
-    - [Strategy for Improving Road Traffic Safety 2023 – 2030 (Draft)](https://www.gov.me/dokumenta/53215d5d-e054-48bd-844f-cad8521512a7)
+    - [Strategy for Improving Road Traffic Safety (2023 – 2030, Draft)](https://www.gov.me/dokumenta/53215d5d-e054-48bd-844f-cad8521512a7)
     - [Report on the State of Road Traffic Safety in Montenegro for the Year 2022 (MUP)](https://www.gov.me/dokumenta/1a28cc46-2175-48e2-aecf-4da571096249)
     - [Innovative Rractices for Encouraging Bicycle Traffic (2023)](https://biciklo.me/wp-content/uploads/2023/11/Sazeti-predlog-prakticne-politike-Biciklo_me_NSBI.pdf)
+    - [Law on Road Traffic Safety (2019)](https://www.paragraf.me/propisi-crnegore/zakon-o-bezbjednosti-saobracaja-na-putevima.html)
   
 
-- General
-
+- General:
+   - [Law on Efficient Use of Energy (2022)](https://me.propisi.net/zakon-o-efikasnom-koriscenju-energije/)
 
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
@@ -54,7 +55,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
-  
+    - [Law on Protection from the Negative Impacts of Climate Change (2019)](https://me.propisi.net/zakon-o-zastiti-od-negativnih-uticaja-klimatskih-promjena/)  
       
 - Adaptation
    
@@ -73,6 +74,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
+- [BokaCet 2020: Polycentric Urban Mobility Plan for Boka Bay and the Old Royal Capital of Cetinje](https://opstinativat.fra1.digitaloceanspaces.com/documents/Zastita%20ziv.sred.%20i%20energ.%20efikasnost/UNDP%20-%20PolySUMP%202017%20ENG.pdf)
 - [Cycling Development Strategy (Kolašin, Rožaje, Žabljak)](https://biciklo.me/biciklo-me-izradilo-nacrte-strategija-razvoja-biciklizma-u-kolasinu-rozajama-i-zabljaku/)
 - [Superdistricts: Human-scale Settlements in Podgorica](https://biciklo.me/wp-content/uploads/2024/01/Policy-Brief-Super-kvartovi.pdf)
 
